@@ -12,13 +12,13 @@ some cool stuff I've found to work for me, you might like it too
 
 ## useful utils
 
-use mouse button to bring up mission control with bettertouchtool
+use an extra mouse button (like backwards) to bring up mission control/spaces with bettertouchtool
 
 mos.app for smooth scrolling on a non-apple mouse (also make sure to whitelist your games)
 
 handmirror menubar app
 
-betterdummy.app & monitorcontrol.app for my ultrawide
+betterdummy.app & monitorcontrol.app for my ultrawide monitor 
 
 native shortcuts.app menubar icon
 
