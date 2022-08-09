@@ -30,5 +30,5 @@ worldclock is an amazing app from the app store, then I have the usual Weather a
 
 ## webdev
 
-sequel ace for dbs, vscode, the usual
+sequel ace for dbs, vscode (there's godlike shortcuts like cmd+D and opt+cmd+down/up arrows - perfect for tailwind), so the usual
 
