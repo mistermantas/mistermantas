@@ -1,12 +1,8 @@
-# Welcome to my page!
- 
-## Work
- 
-[Check out my Mac setup post](https://github.com/mistermantas/mistermantas/blob/master/mac-setup.md) or the pinned repositories for my work!
- 
-## Sponsors <3
+hi!
 
-The support from @cstate both morally and financially is very much appreciated!
+see my [portfolio](https://mnts.studio) + pinned repos
 
-[**SUPPORT ME FINANCIALLY**](https://github.com/sponsors/mistermantas/)
+[mac setup post](https://github.com/mistermantas/mistermantas/blob/master/mac-setup.md)
+
+[**SUPPORT ME FINANCIALLY**](https://github.com/sponsors/mistermantas/) (my main open source work is @cState)
  
