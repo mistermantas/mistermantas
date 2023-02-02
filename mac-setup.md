@@ -18,6 +18,8 @@ mos.app for smooth scrolling on a non-apple mouse (also make sure to whitelist y
 
 handmirror menubar app
 
+pictogram for editing naugthy apps' icons not updated for big sur
+
 betterdummy.app & monitorcontrol.app for my ultrawide monitor 
 
 native shortcuts.app menubar icon
