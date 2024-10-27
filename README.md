@@ -7,8 +7,8 @@
 <h3 align="center"> About Me 🧑🏻 </h3>
 
 I have been learning about design and web development since I was 16.
-I really love technology. I focus on beautiful, simple, and efficient
-design, and viable long-term solutions.
+I really love technology. I focus on beautiful and simple user interfaces and experiences,
+with efficient design, straightforward code, and time-tested frameworks and languages.
 
 [Mac setup post](https://github.com/mistermantas/mistermantas/blob/master/mac-setup.md)
 
